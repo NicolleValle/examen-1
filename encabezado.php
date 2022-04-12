@@ -16,7 +16,7 @@
 <body>
     <!-- Definición del menú -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-        <a href="https://tecsup.instructure.com/courses/25788/users/121763" target="_blank">Valle Morales - Examen 1</a>
+        <a class="navbar-brand" href="https://tecsup.instructure.com/courses/25788/users/121763" target="_blank">Valle Morales - Examen 1</a>
         <div class="collapse navbar-collapse" id="miNavbar">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
