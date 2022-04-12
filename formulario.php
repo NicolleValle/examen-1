@@ -6,7 +6,7 @@ Este archivo muestra un formulario que se envia a insertar.php, el cual guardara
 <?php include_once "encabezado.php" ?>
 <div class="row">
   <div class="col-12">
-    <h1>Agregar</h1>
+    <h1>Agregar Mascota</h1>
     <form action="insertar.php" method="post">
       <div class="form-group">
         <label for="nombre">Nombre</label>
